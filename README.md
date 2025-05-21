@@ -1,5 +1,5 @@
 # api-test
-Postman API tests(GET &; POST) using JSONPlaceholder
+Postman API tests(GET & POST) using JSONPlaceholder
 # API Testing Practice – Postman
 
 This repo contains API test collection created during manual QA training using Postman.
